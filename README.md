@@ -122,7 +122,3 @@ npm start
 ```
 
 ---
-
-## 📖 Tài Liệu Tham Khảo Thêm
-- Vui lòng xem [ARCHITECTURE.md](./ARCHITECTURE.md) để hiểu sâu hơn về kiến trúc trao đổi API/WebSocket và luồng xử lý (Registration Flow).
-- Đọc [cv.md](./cv.md) để đánh giá các giải pháp kỹ thuật cụ thể đã giải quyết trong quá trình phát triển (UI/UX, Workflow modernization, Anti-bot bypass).
