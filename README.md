@@ -17,7 +17,6 @@ graph TD
     subgraph "Local Station (User Desktop)"
         AGENT[Electron Desktop App]
         CHROME[Chrome Browser via CDP]
-        LOCAL_DB[(SQLite Local)]
     end
 
     subgraph "External Systems"
