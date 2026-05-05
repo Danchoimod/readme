@@ -3,6 +3,17 @@
 **LSTro** là hệ sinh thái phần mềm Full-stack phục vụ việc quản lý cư dân và tự động hóa khai báo lưu trú lên Cổng Dịch vụ công Quốc gia. Hệ thống gồm hai thành phần chính: **Backend API Server** và **LSTro-Bridge** (công cụ tự động hóa).
 
 ---
+## Ảnh chụp màn hình
+<img width="1859" height="879" alt="image" src="https://github.com/user-attachments/assets/dca953dd-d5be-4ac6-a4f5-0a2710b0c5e1" />
+
+<img width="1879" height="878" alt="image" src="https://github.com/user-attachments/assets/47be0c6d-92cc-41b4-9b77-4918aed71daa" />
+
+<img width="1886" height="882" alt="image" src="https://github.com/user-attachments/assets/7eda89fb-fc8f-4f59-8e03-50aaf47038e2" />
+
+
+
+
+
 
 ## 🏗 Kiến trúc Tổng quan
 
